@@ -1,0 +1,31 @@
+.card-all {
+    height: 100%;
+}
+
+.container-fluid {
+    margin: 10px;
+}
+
+.text-mini {
+    font-size: 8px;
+}
+
+.card-header {
+    background: darkgrey;
+    height: 100px;
+    padding-top: 35px;
+
+}
+
+.card-top {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.container {
+    margin-top: 20px;
+}
+
+.navbar-footer {
+    padding-top: 30px;
+}
